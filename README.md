@@ -30,8 +30,8 @@ Currently exploring advanced **web systems** and modern **backend frameworks**, 
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmerEid&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmerEid&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amer-Eid12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amer-Eid12&layout=compact&theme=radical)  
 
 ---
 
