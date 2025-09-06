@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amer Eid  
 
-💻 **Computer Science Student | Full-Stack Developer | Open Source Enthusiast**  
+💻 **Computer Science Student**  
 
 I’m passionate about building efficient, scalable, and user-friendly software.  
 Currently exploring advanced **web systems** and modern **backend frameworks**, with a growing interest in databases and distributed applications.  
@@ -28,13 +28,6 @@ Currently exploring advanced **web systems** and modern **backend frameworks**, 
 
 ---
 
-## 📂 Featured Projects  
-🔹 [Project 1](#) – Short description of your project  
-🔹 [Project 2](#) – Short description of your project  
-🔹 [Project 3](#) – Short description of your project  
-
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmerEid&show_icons=true&theme=radical)  
@@ -45,7 +38,7 @@ Currently exploring advanced **web systems** and modern **backend frameworks**, 
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amer-eid12)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 📧 [Email](mailto:amereid666@gmail.com)  
 
 ---
 ⭐️ _"Always learning, always building."_  
